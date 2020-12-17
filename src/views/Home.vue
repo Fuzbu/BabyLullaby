@@ -349,7 +349,7 @@ export default {
 
       { name: "Open Your Eyes", file: A3, artist: "Alter Bridge", howl: null },
       {
-        name: "Bulls Parade",
+        name: "Killing In The Name",
         file: A4,
         artist: "Rage Against The Machine",
         howl: null,
